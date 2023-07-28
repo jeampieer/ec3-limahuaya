@@ -1,4 +1,4 @@
-package com.example.evauacion3.UI.fragments
+package com.example.ec3_limahuaya.UI.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

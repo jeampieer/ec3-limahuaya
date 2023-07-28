@@ -55,21 +55,6 @@
             app:layout_constraintTop_toTopOf="@+id/guideline_middle" />
 
 
-
-        <ImageButton
-            android:id="@+id/btn_favorite"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="16dp"
-            android:layout_marginTop="16dp"
-            android:layout_marginEnd="152dp"
-            android:background="@drawable/favorite_background"
-            android:contentDescription="@null"
-            android:padding="8dp"
-            android:src="@drawable/imc_favorite_borde"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
-
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 

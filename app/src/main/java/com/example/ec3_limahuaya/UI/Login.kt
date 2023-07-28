@@ -25,7 +25,7 @@ class Login : AppCompatActivity() {
             val password = binding.Password.text.toString()
 
 
-            if (email == "jeamp@ida.edu.pe" && password == "123456") {
+            if (email == "jeamp@idat.edu.pe" && password == "123456") {
 
                 Toast.makeText(this, "Inicio de sesión exitoso", Toast.LENGTH_SHORT).show()
 
